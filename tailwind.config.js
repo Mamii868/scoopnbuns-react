@@ -21,6 +21,6 @@ export default {
     },
     extend: {},
   },
-  plugins: [],
+  plugins: ["prettier-plugin-tailwindcss"],
 }
 
